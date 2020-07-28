@@ -1,5 +1,5 @@
 ################################# Default configuration ###################
-baseURL = "https://dataist.com"
+baseURL = "/"
 title = "Dataist: In data we trust"
 theme = "meghna-hugo"
 # post pagination
