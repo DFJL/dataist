@@ -1,0 +1,13 @@
+
+
+## Install from CRAN
+install.packages('blogdown')
+
+blogdown::install_hugo()
+
+
+blogdown::new_site(theme = 'your-identity/hugo-theme-dimension')
+
+
+#git config --global user.email "felipe_jimenez_l@yahoo.com"
+#git config --global user.name "DFJL"
